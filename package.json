@@ -1,0 +1,11 @@
+{
+  "name": "mini-koa",
+  "version": "0.1.0",
+  "description": "手写简化版的koa",
+  "author": "wzx",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wzx365/mini-koa"
+  }
+}
